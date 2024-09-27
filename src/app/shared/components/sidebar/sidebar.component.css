@@ -1,0 +1,25 @@
+#sidebar{
+  height: 100vh;
+  width: 250px;
+
+}
+#btn-custom{
+  background-color: #c425a7;
+  border: none;
+  color: rgb(240, 233, 233);
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0.5px;
+  cursor: pointer;
+  border-radius: 5px;
+
+
+
+}
+#btn-custom:hover{
+  background-color: #ce70ca;
+  color: white;
+}
